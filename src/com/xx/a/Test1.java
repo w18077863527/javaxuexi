@@ -27,9 +27,6 @@ public class Test1 {
 			System.out.println(obj);
 		}
 		
-		coll2.add("tom");
-		for(Object f:coll2){
-			System.out.println(f);
-		}
+		
 	}
 }
